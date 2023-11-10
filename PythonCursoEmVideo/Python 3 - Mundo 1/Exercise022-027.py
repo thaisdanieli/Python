@@ -1,4 +1,9 @@
 # EXERCISE 022
+# Crie um programa que leia o nome completo de uma pessoa e mostre:
+# O nome com todas as letras maiúsculas
+# O nome com todas minúsculas.
+# Quantas letras ao todo (sem considerar Espaços).
+# Quantas letras tem o primeiro nome.
 
 name = str(input('Informe seu nome completo: '))
 
@@ -22,6 +27,7 @@ print(f"Seu nome tem {len(''.join(name.split()))} caracteres")
 print(f"Seu primeiro nome é {name.split()[0]} e ele tem {len(name.split()[0])} letras")
 
 # EXERCISE 023
+# Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 
 num = int(input('Informe um número: '))
 u = num // 1 % 10 # Divisão inteira por 1

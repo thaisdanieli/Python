@@ -36,7 +36,7 @@ print('Centena: {}' .format(c))
 print('Milhar:{}' .format(m))
 
 # EXERCISE 024
-
+# Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
 state = str(input('Informe o nome da Cidade: '))
 
 trueFalse = state.split()
@@ -47,6 +47,7 @@ print('Santo' in state.title())
 print(f"A cidade {state} começa com o nome Santo? {state.split()[0].upper() == 'SANTO'}")
 
 # EXERCISE 025
+# Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
 
 name = str(input('Informe o nome: '))
 print('SILVA' in name.upper().strip())

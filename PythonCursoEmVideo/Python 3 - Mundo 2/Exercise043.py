@@ -4,6 +4,7 @@
 # - 25 até 30: Sobrepeso 
 # - 30 até 40: Obesidade
 # - Acima de 40: Obesidade mórbida
+# - 13/11/2023
 
 altura  = float(input('Informe sua altura: '))
 peso    = float(input('Informe seu peso: '))

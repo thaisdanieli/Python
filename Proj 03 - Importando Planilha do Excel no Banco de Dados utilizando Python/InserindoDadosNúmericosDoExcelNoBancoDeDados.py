@@ -3,7 +3,7 @@ import mysql.connector
 
 Sheetl_df = pd.read_excel("25112023InserindoDadosExcelNoBancoDeDados.xlsx")
 
-conectar = mysql.connector.connect(host='localhost', user='root', password='1234', database='youtube')
+conectar = mysql.connector.connect(host='@', user='@', password='@', database='@')
 cursor = conectar.cursor()
 
 for index, row in Sheetl_df.iterrows():

@@ -1,10 +1,14 @@
 Esses 115 exercicios em Python, foram desenvolvidos nos 3 modulos do Curso em Python do site Curso em Video do professor Gustavo Guanabara.
 
 Mundo 1
+
 Conhecendo a linguagem
+
 Exercício Python #01 - Deixando tudo pronto
 Exercício Python #02 - Respondendo ao usuário
+
 Primeiros passos
+
 Exercício Python #03 - Somando dois números
 Exercício Python #04 - Dissecando uma variável
 Cálculos e operações
@@ -27,7 +31,9 @@ Exercício Python #018 - Seno, cosseno e tangente
 Exercício Python #019 - Classificando um item na lista
 Exercício Python #020 - Classificando uma ordem na lista
 Exercício Python #021 - Tocando um MP3
+
 Cordas
+
 Exercício Python #022 - Analisador de textos
 Exercício Python #023 - Separando dígitos de um número
 Exercício Python #024 - Verificando as primeiras letras de um texto
@@ -36,6 +42,7 @@ Exercício Python #026 - Primeira e última ocorrência de uma string
 Exercício Python #027 - Primeiro e último nome de uma pessoa
 
 Estruturas condicionais
+
 Exercício Python #028 - Jogo da Adivinhação v1.0
 Exercício Python #029 - Radar eletrônico
 Exercício Python #030 - Par ou ímpar?
@@ -48,6 +55,7 @@ Exercício Python #035 - Analisando triângulo v1.0
 Mundo 2: estruturas de controle
 
 Condições em Python (if..elif)
+
 Exercício Python #036 - Aprovando empréstimo
 Exercício Python #037 - Conversor de bases numéricas
 Exercício Python #038 - Comparando números
@@ -60,6 +68,7 @@ Exercício Python #044 - Gerenciador de pagamentos
 Exercício Python #045 - JOGO: Pedra, Papel e Tesoura
 
 Repetições em Python (for)
+
 Exercício Python #046 - Contagem regressiva
 Exercício Python #047 - Contagem de pares
 Exercício Python #048 - Soma ímpares múltiplos de três
@@ -73,6 +82,7 @@ Exercício Python #055 - Maior e menor da sequência
 Exercício Python #056 - Analisador completo
 
 Repetições em Python (while)
+
 Exercício Python #057 - Validação de dados
 Exercício Python #058 - Jogo da adivinhação v2.0
 Exercício Python #059 - Criando um menu de opções
@@ -89,14 +99,18 @@ Exercício Python #069 - Análise de dados do grupo
 Exercício Python #070 - Estatística de produtos
 Exercício Python #071.2 - Simulador de caixa eletrônica
 Exercício Python #071.2.1 - Simulador de caixa eletrônica
+
 Mundo 3: estruturas compostas
+
 Tuplas
+
 Exercício Python #072 - Número extenso
 Exercício Python #073 - Tuplas com times de futebol
 Exercício Python #074 - Maiores e menores valores em tupla
 Exercício Python #075 - Análise de dados em uma tupla
 Exercício Python #076 - Lista de preços com tupla
 Exercício Python #077 - Contando vogais em tupla
+
 Listas
 Exercício Python #078 - Maiores e menores valores na lista
 Exercício Python #079 - Valores únicos em uma lista
@@ -106,6 +120,7 @@ Exercício Python #081.2 - Lista ordenada sem repetições
 Exercício Python #081 - Extraindo dados de uma lista
 Exercício Python #082 - Dividindo valores em várias listas
 Exercício Python #083 - Validando expressões matemáticas
+
 Listas (Parte 2)
 Exercício Python #084 - Lista composta e análise de dados
 Exercício Python #085 - Listas com pares e impuras
@@ -113,6 +128,7 @@ Exercício Python #086 - Matriz em Python
 Exercício Python #087 - Mais sobre matriz em Python
 Exercício Python #088 - Palpites para a Mega-Sena
 Exercício Python #089 - Boletim com listas compostas
+
 Dicionários
 Exercício Python #090 - Dicionário em Python
 Exercício Python #091 - Jogo de dados em Python
@@ -120,6 +136,7 @@ Exercício Python #092 - Cadastro de trabalho em Python
 Exercício Python #093 - Cadastro de jogador de futebol
 Exercício Python #094 - Reunindo dicionários e listas
 Exercício Python #095 - Aprimorando dicionários
+
 Funções
 Exercício Python #096 - Função que calcula área
 Exercício Python #097 - Um print especial
@@ -132,14 +149,18 @@ Exercício Python #103 - Ficha do jogador
 Exercício Python #104 - Validando entrada de dados em Python
 Exercício Python #105 - Analisando e gerando dicionários
 Exercício Python #106 - Sistema interativo de ajuda em Python
+
 Modularização em Python
+
 Exercício Python #107 - Exercitando módulos em Python
 Exercício Python #108 - Formatando moedas em Python
 Exercício Python #109 - Formatando moedas em Python
 Exercício Python #110 - Reduzindo ainda mais seu programa
 Exercício Python #111 - Transformando módulos em pacotes
 Exercício Python #112 - Entrada de dados financeiros
+
 Tratamento de erros em Python
+
 Exercício Python #113 - Funções aprofundadas em Python
 Exercício Python #114 - Site está acessível?
 Exercício Python #115a - Criando um menu em Python
